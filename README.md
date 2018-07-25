@@ -1,5 +1,5 @@
 ## Visit website
-[https://secondwin.github.io/personal-website/]
+https://secondwin.github.io/personal-website/
 
 ## Deploy application
 ```
