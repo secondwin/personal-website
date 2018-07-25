@@ -1,4 +1,7 @@
-## Deploy Application
+## Visit website
+[https://secondwin.github.io/personal-website/]
+
+## Deploy application
 ```
 $ npm run deploy
 ```
