@@ -17,39 +17,24 @@
     "resumedownload":"#",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"http://linkedin.com",
+        "url":"https://www.linkedin.com/in/thmsngyn/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com",
+        "url":"https://github.com/secondwin",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"facebook",
+        "url":"https://www.facebook.com/thethomasnguyen",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/thmsngyn/",
+        "className":"fa fa-instagram"
       }
     ]
   },
